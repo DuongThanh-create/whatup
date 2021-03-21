@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-thanh
-hhghg
-hay cho toi biet
-=======
-thanh
->>>>>>> parent of 821292b (Duong Van Thanh)
-=======
-thanh
->>>>>>> parent of 821292b (Duong Van Thanh)
+soosos
+hghgh
